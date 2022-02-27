@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HTML Recap</title>
+</head>
+<body>
+    <h1>Are you an anime lover?</h1>
+    <p>If you love anime or are just starting to experiment with the genre this is the site for you.</p>
+    <p>This site supplies its subscribers with updates and information about new and upcoming anime series and episodes.</p>
+    
+    <div style="border:1px solid black;"></div>
+        <h1>Subscribers</h1>
+    <div> 
+        <p>Email</p>
+        <input type="Email" />
+    </div>
+    <div>
+        <p>Password</p>
+        <input type="Password" />
+        </div>
+    <h2>To access all content and services subscribe below.</h2>
+</div>
+<div style="border: solid 2px rgb(128, 78, 243); padding: .5rem;">
+<form>
+    <fieldset>
+        <legend>Subscriber Information</legend>
+        <p>
+            <lable>Subscriber Name: <input name="name" /></lable>
+        </p>
+        <p>
+            <lable>Telephone: <input type="tel" name="tel" /></lable>
+        </p>
+        <p>
+            <lable>Email Address: <input type="email" name="email" /></lable>
+        </p>
+    </fieldset>
+</form>
+</body>
+</html> 
